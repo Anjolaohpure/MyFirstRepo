@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-How to create repository, also how to clone, and how to move files
+What i have learn from this course is how to create repository, also how to clone, and how to move files
 
 =======
 i have learnt how to create repo and how to clone 
