@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+What i have learn from this course <<<<<<< HEAD
 What i have learn from this course is how to create repository, also how to clone, and how to move files
 
 =======
+What i have learn from this course 
+
 i have learnt how to create repo and how to clone 
 >>>>>>> 3bdde73def9d30a8b29d7c1bcbb4be1a0ca6e880
